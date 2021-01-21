@@ -66,6 +66,7 @@ public class Application {
 
         materialsCrud.createMaterials(32, "Дерево", 334);
         materialsCrud.createMaterials(3, "Гвозди", 300);
+        materialsCrud.createMaterials(3, "Бетон", 300);
 
         materialsCrud.readMaterials();
 
